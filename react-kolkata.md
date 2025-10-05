@@ -31,6 +31,7 @@
 * Starting **today** - 11th Oct, registrations open for **volunteers and the organizing team**.
 * Whether you want to help with design, logistics, speaker coordination, or social media — there’s a place for you.
 * Volunteering is the best way to be part of something that grows from the ground up!
+* Link for registration available on website
 
 ---
 
@@ -39,6 +40,7 @@
 * **CFP opens Monday, 13th Oct**, and will remain open till **October end**.
 * We’re looking for **developers who’ve built something cool with React**, improved performance, or solved a real frontend problem.
 * Talks can range from 5-minute lightning talks to 20-minute deep dives — all experience levels welcome!
+* * Link for registration available on website
 
 ---
 
